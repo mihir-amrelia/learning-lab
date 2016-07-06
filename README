@@ -1,0 +1,19 @@
+This Project is to understand key concepts in different areas of technology.
+
+Areas of work shared being here can be categorised as:
+- Coding
+	o C
+	o C++
+	o Python
+	o Perl
+
+- Testing
+	o gtest
+
+- Help guides for working env: tools, utilities, other key concepts
+	o regex, cscope, vim, sed, awk.. etc.
+
+- Software Project Management
+	o Makefile
+	o automake
+
